@@ -10,9 +10,9 @@ modern authentication and password security techniques.
 |---|---|---|
 | 1 | Caesar Cipher | Completed |
 | 2 | Monoalphabetic Substitution Cipher | Completed |
-| 3 | Vigenere Cipher | Pending |
-| 4 | One-Time Pad & Perfect Secrecy | Pending |
-| 5 | SHA-256 Hash Function | Pending |
+| 3 | Vigenere Cipher | Completed |
+| 4 | One-Time Pad & Perfect Secrecy | Completed |
+| 5 | SHA-256 Hash Function | Completed |
 | 6 | Message Authentication Code (MAC) | Pending |
 | 7 | HMAC Implementation | Pending |
 | 8 | Replay Attack Demonstration & Prevention | Pending |
@@ -36,6 +36,6 @@ with appropriate inputs and outputs.
 
 ## Progress
 
-Completed: 2 / 10
+Completed: 5 / 10
 
-Current Practical: 3 - Vigenere Cipher
+Current Practical: 6 - Message Authentication Code (MAC)
