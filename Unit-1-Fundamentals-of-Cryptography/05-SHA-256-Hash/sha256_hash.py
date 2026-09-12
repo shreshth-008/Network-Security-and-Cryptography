@@ -12,7 +12,6 @@ def calculate_sha256(message):
 
     return hash_value
 
-
 print("=== SHA-256 Hash Function ===")
 
 message = input("Enter message: ")

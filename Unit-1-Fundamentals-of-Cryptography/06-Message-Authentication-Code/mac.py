@@ -10,7 +10,6 @@ def generate_mac(message, key):
 
     return mac
 
-
 print("=== Message Authentication Code (MAC) ===")
 
 message = input("Enter message: ")
